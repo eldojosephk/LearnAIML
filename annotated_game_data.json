@@ -1,0 +1,9 @@
+[
+    ["Crazy for speed is Ryan's favorite game in 2023. he spends 2 hours playing that. He earned 1 billion", {"entities": [[0, 15, "GAME"], [59, 66, "HOURS"], [91, 100, "INCOME"]]}],
+    ["Crazy drift is another game that Ryan likes. He spends 30 mins playing that. He earned 100 dollars from it", {"entities": [[0, 11, "GAME"], [55, 62, "HOURS"], [87, 98, "INCOME"]]}],
+    ["Prince Of Persia is a game that he does not like. He spends 0 hours playing that and he earn 0 dollars from it", {"entities": [[0, 16, "GAME"], [60, 67, "HOURS"], [93, 102, "INCOME"]]}],
+    ["Basketball is Ryan's favorite game in 2023. he spends 1 hour playing that. He earned 7 billion", {"entities": [[0, 10, "GAME"], [54, 60, "HOURS"], [85, 94, "INCOME"]]}]
+]
+
+
+

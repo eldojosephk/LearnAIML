@@ -1,0 +1,8 @@
+[
+    ["There are many fruits that were found on the recently discovered planet Goocrux. There are neoskizzles that grow there, which are purple and taste like candy.", {"entities": [[91, 102, "FRUIT"], [130, 136, "COLOR"], [152, 157, "TASTE"]]}],
+    ["There are also loheckles, which are a grayish blue fruit and are very tart.", {"entities": [[16, 24, "FRUIT"], [38, 50, "COLOR"], [70, 74, "TASTE"]]}],
+    ["Pounits are a bright green color and are savory.", {"entities": [[0, 7, "FRUIT"], [14, 26, "COLOR"], [41, 47, "TASTE"]]}],
+    ["There are also plenty of loopnovas which are a neon pink color and taste like cotton candy.", {"entities": [[25, 34, "FRUIT"], [47, 56, "COLOR"], [78, 90, "TASTE"]]}],
+    ["Finally, there are fruits called glowls, which have a very sour and bitter taste and a pale orange tinge to them.", {"entities": [[33, 39, "FRUIT"], [87, 98, "COLOR"],  [59, 74, "TASTE"]]}]
+]
+
