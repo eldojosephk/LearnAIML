@@ -13,9 +13,11 @@ def extract_text_from_pdf(pdf_file):
     return text
 
 # Load the custom NER model you trained
-nlp = spacy.load("custom_ner_nav_model")
+nlp = spacy.load("custom_ner_nav_model_new")
 
-text = extract_text_from_pdf("C:\\Users\\EldoRoopa\\Downloads\\UPDATED_NLP_COURSE\\UPDATED_NLP_COURSE\\00-Python-Text-Basics\\Business_Proposal.pdf")
+#text = extract_text_from_pdf("C:\\Users\\EldoRoopa\\Downloads\\UPDATED_NLP_COURSE\\UPDATED_NLP_COURSE\\00-Python-Text-Basics\\Business_Proposal.pdf")
+text = extract_text_from_pdf("D:\\Python\\testcase1.pdf")
+#text = "ROR for the bank is 56 . Bank of Pensylvania has performed very well in 2023. The testing was in progress and we decided to add more strings. \n the NAV is 74."
 
 # Process text with the custom NER model
 doc = nlp(text)

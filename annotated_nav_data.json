@@ -1,8 +1,10 @@
 [
     ["Bank of Pensilvania has performed very well in 2023. Nav for the bank is 13.2 and the ROR is 17.", {"entities": [[0, 19, "COMPANY"], [73, 77, "NAV"], [93, 95, "ROR"]]}],
     ["Russian Bank has performed not so well this year and Nav for the bank reduced to 10.2 and the ROR is 12.", {"entities": [[0, 12, "COMPANY"], [81, 85, "NAV"], [101, 103, "ROR"]]}],
-    ["Devaswom Board is doing comparitively ok. Its Nav has remained unchanged at 19.2 and 25 is the ROR .", {"entities": [[0, 14, "COMPANY"], [76, 80, "NAV"], [85, 87, "ROR"]]}]
+    ["Devaswom Board is doing comparitively ok. Its Nav has remained unchanged at 19.2 and 25 is the ROR .", {"entities": [[0, 14, "COMPANY"], [76, 80, "NAV"], [85, 87, "ROR"]]}],
+    ["There we so many years before the home and  the testing was not upto date. Bank of Scotland has performed very well in 2023. ROR for the bank is 19 . The testing was in progress and we decided to add more strings.the NAV is 74.", {"entities": [[75, 91, "COMPANY"], [224, 226, "NAV"], [145, 147, "ROR"]]}]
 ]
+
 
 
 

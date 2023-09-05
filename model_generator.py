@@ -7,7 +7,7 @@ from spacy.training.example import Example  # Import the Example class
 nlp = spacy.load("en_core_web_sm")
 
 # Load your annotated data
-with open("annotated_game_data.json", "r") as f:
+with open("annotated_nav_data.json", "r") as f:
     annotated_data = json.load(f)
 
 # Add entity annotations to the model's pipeline
@@ -34,4 +34,4 @@ with nlp.disable_pipes(*other_pipes):
         print(losses)
 
 # Save the trained model
-nlp.to_disk("custom_ner_game_model")
+nlp.to_disk("custom_ner_nav_model_new")
